@@ -1,0 +1,234 @@
+body {
+  font-family: "Oswald", sans-serif;
+  margin: 0 5.5cm;
+  padding: 0;
+  background-image: url(./imgs/9);
+  background-attachment: fixed;
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tg {
+  color: white;
+  font-size: 37px;
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  height: 60px;
+  background-color: gray;
+}
+
+#main {
+  max-width: 1300px;
+  margin: 0 auto 0cm auto;
+  padding: 0 0 0.5cm 0;
+  background-color: rgb(210, 228, 234);
+}
+
+p {
+  text-align: justify;
+  padding: 0 40px;
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.yet {
+  text-indent: 1cm;
+}
+
+header img {
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  background-color: rgb(76, 76, 127);
+}
+
+.menu {
+  font-size: 120%;
+  display: inline-block;
+  width: 20%;
+  height: 16px;
+  padding: 17px 10px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.menu:hover {
+  font-size: 155%;
+  background-color: gray;
+}
+
+.pic2 {
+  width: 300px;
+  float: left;
+  padding: 18px;
+  margin-bottom: 5cm;
+}
+
+.pic3 {
+  width: 300px;
+  float: right;
+  padding: 18px;
+}
+
+h1 {
+  font-size: 190%;
+  text-align: center;
+  margin: 2cm 5cm 50px;
+  border-bottom: 3px solid black;
+}
+
+article {
+  margin-top: 50px;
+  margin-bottom: 110px;
+}
+
+#utube {
+  display: inline-block;
+  margin-top: 1cm;
+  margin-left: 2cm;
+}
+
+h2 {
+  font-size: 190%;
+  text-align: center;
+  margin: 2cm 12cm 50px;
+}
+
+#art1 {
+  background-color: rgba(244, 235, 235, 0.219);
+}
+
+h3 {
+  font-size: 190%;
+  text-align: center;
+  margin: 0px;
+  background-color: lightgray;
+}
+
+h4 {
+  background-color: lightgray;
+  font-size: 190%;
+  text-align: center;
+  background-color: lightgray black;
+}
+
+h5 {
+  font-size: 190%;
+  text-align: center;
+  background-color: lightgray;
+}
+
+h6 {
+  margin-left: 3cm;
+  font-size: 35px;
+}
+
+#pic5 {
+  width: 300px;
+  float: left;
+  margin: 18px;
+}
+
+#pic6 {
+  width: 400px;
+  float: right;
+  margin: 18px;
+}
+
+p {
+  text-indent: 1cm;
+}
+
+#pic7 {
+  width: 360px;
+  float: left;
+  padding: 18px;
+}
+
+#see-id {
+  margin: 0px;
+  background-color: lightgray;
+}
+
+#link {
+  text-decoration: none;
+  margin: 0 43%;
+  padding-bottom: 2cm;
+  font-size: 22px;
+}
+
+h8 {
+  font-size: 33px;
+  margin-left: 2cm;
+}
+
+.ull img {
+  width: 200px;
+  margin-top: 2cm;
+  display: flex;
+  margin-right: 4cm;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#pic23 {
+  float: left;
+  padding: 20px;
+  width: 300px;
+}
+
+.pics {
+  width: 100px;
+}
+
+.pic10 {
+  width: 200px;
+}
+
+.seealso {
+    margin-top: 2cm;
+    display: flex;
+   justify-content: space-evenly ;
+}
+
+.eatpics {
+  margin-top: 5cm;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pics:hover {
+  transform: scale(4);
+}
+
+#pic24 {
+  width: 460px;
+  margin-bottom: 1cm;
+}
+
+#pic25 {
+  width: 460px;
+  margin-bottom: 1cm;
+}
+
+#pic26 {
+  width: 460px;
+  margin-top: 1cm;
+  margin-left: 1cm;
+}
+
+#pic27 {
+  width: 460px;
+  margin-top: 1cm;
+}
+
+.pic14 {
+  width: 450px;
+  margin-left: 1cm;
+}
